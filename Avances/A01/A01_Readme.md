@@ -1,6 +1,8 @@
-Análisis Numérico y Cómputo Científico
-Avance del 07 de abril de 2017
-Equipo 04
+### Análisis Numérico y Cómputo Científico
+
+##Equipo 04
+
+# Avance del 07 de abril de 2017
 
 Una vez discutido el alcance del proyecto se procedió a buscar material que pueda apoyar en el desarrollo del proyecto **Implementación de multiplicación de números grandes sin perdida de predicción**
 

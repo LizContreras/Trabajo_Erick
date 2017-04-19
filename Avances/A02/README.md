@@ -1,8 +1,8 @@
 ### Analisis numerico y computo cientifico
 
-### Equipo 04
+## Equipo 04
 
-# Avances al 17 de abril:
+# 02. Avances al 17 de abril:
 
 ## Avance individual:
 
